@@ -1,0 +1,17 @@
+package util;
+
+import java.lang.reflect.Array;
+
+public interface Menu {
+    public void metodo1(int x);
+    public void metodo2(String s);
+    public void metodo3(double y);
+    public void metodo4(int y);
+    public void metodo5(String g);
+    public void metodo6(double l);
+    public void metodo7(int p);
+    public void metodo8(Array a);
+    public void metodo10();
+    public void metodo11(int l);
+    public void metodo12();
+}
